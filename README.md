@@ -13,10 +13,15 @@ In this project, I will create a console app that will help you to keep a record
 # Build with 
  - Ruby
 
-👤 **Author**
+👤 **Authors**
 - GitHub: [@githubhandle](https://github.com/SirriRyisa)
 - Twitter: [@twitterhandle](https://twitter.com/N_Ryisa)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ryisa-sirri-ngwa-a30013202)
+
+
+- GitHub: [@githubhandle]()
+- Twitter: [@twitterhandle]()
+- LinkedIn: [LinkedIn]()
 
 ## 🤝 Contributing
 
